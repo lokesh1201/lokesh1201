@@ -33,23 +33,22 @@
 
 ---
 
-## 🔧 Technology Stack
+## 🚀 Technology Stack
 
-[![Python](https://img.shields.io/badge/Python-Advanced-orange)]()  
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen)]()  
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Knowledgeable-yellow)]()  
-[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Proficient-brightblue)]()  
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Proficient-blue)]()  
-[![SQL](https://img.shields.io/badge/SQL-Competent-blueviolet)]()  
-[![MongoDB](https://img.shields.io/badge/MongoDB-Familiar-green)]()  
-[![Pandas](https://img.shields.io/badge/Pandas-Expert-yellowgreen)]()  
-[![OpenCV](https://img.shields.io/badge/OpenCV-Experienced-blue)]()  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Knowledgeable-orange)]()  
-[![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-Proficient-lightgrey)]()  
-[![LangChain](https://img.shields.io/badge/LangChain-Exploring-purple)]()  
-[![Git](https://img.shields.io/badge/Git-Version_Control-orange)]()  
-[![Power BI](https://img.shields.io/badge/PowerBI-Data%20Viz-blue)]()
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Advanced-orange?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Proficient-green?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-Proficient-blue?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Experienced-teal?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Competent-blueviolet?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Familiar-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Expert-yellow?style=for-the-badge&logo=pandas&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-Experienced-blue?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Knowledgeable-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit Learn-Proficient-lightgrey?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power BI-Data Viz-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Exploring-purple?style=for-the-badge" />
+</p>
 ## 💻 Languages & Tools
 
 <p align="left">
@@ -66,16 +65,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>  
 </p>
-
 ---
-
-## 📈 GitHub Stats
+## 💻 Most Used Languages
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lokesh1201&show_icons=true&theme=radical&hide_title=false&hide_border=false&bg_color=0D1117&title_color=F7A41D&icon_color=F7A41D&text_color=cdd6f4"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1201&layout=compact&theme=radical&bg_color=0D1117&title_color=F7A41D&text_color=cdd6f4&hide_border=false&langs_count=8"/>
+  <img src="https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-40%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-30%25-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-30%25-lightgrey?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
 ---
 
 ## 📊 GitHub Activity
