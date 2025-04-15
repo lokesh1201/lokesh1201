@@ -25,7 +25,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech student, majoring in Computer Science  
 - 💡 Skilled in **Python**, **Machine Learning**, and **Web Development**  
 - 🚀 Experienced with tools like **Django**, **Flask**, **FastAPI**, **SQL**, **MongoDB**, **Power BI**, and **LangChain**  
 - 📊 Passionate about solving real-world problems with **data-driven solutions**  
