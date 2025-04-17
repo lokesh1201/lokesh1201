@@ -86,9 +86,9 @@
   </a>
 
   <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
+ <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>
+</a>
 
   <!-- FastAPI -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
@@ -204,10 +204,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
   </a>
 
-  <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/2621/2621118.png" alt="CI/CD" width="40" height="40"/>
-</a>
-
+ 
   <!-- System Design -->
  <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" alt="System Design" width="40" height="40"/>
