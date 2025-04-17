@@ -51,6 +51,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -88,7 +89,7 @@
 
   <!-- FastAPI -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   </a>
 
   <!-- ReactJS -->
@@ -133,12 +134,12 @@
 
   <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
 
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
 
   <!-- TensorFlow -->
@@ -198,7 +199,7 @@
 
   <!-- Databricks -->
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/25494391?s=280&v=4" alt="Databricks" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Databricks_Logo.png" alt="Databricks" width="40" height="40"/>
   </a>
 
   <!-- CI/CD -->
@@ -215,6 +216,7 @@
   <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-system-design-design-thinking-flat-flat-juicy-fish.png" alt="System Design" width="40" height="40"/>
   </a>
+
 </p>
 ---
 ## 💻 Most Used Languages
