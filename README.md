@@ -195,10 +195,7 @@
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
   </a>
 
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Databricks_logo.svg" alt="Databricks" width="90" height="40"/>
-</a>
-
+  
   <!-- Apache Kafka -->
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
