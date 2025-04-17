@@ -172,11 +172,7 @@
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
   </a>
 
-  <!-- Apache Kafka -->
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Kafka" width="40" height="40"/>
-  </a>
-
+ 
   <!-- Apache Spark -->
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="40" height="40"/>
@@ -202,19 +198,29 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Databricks_Logo.png" alt="Databricks" width="40" height="40"/>
   </a>
 
-  <!-- CI/CD -->
-  <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-ci-cd-process-of-continuous-integration-and-continuous-delivery-devops-shadow-tal-revivo.png" alt="CI/CD" width="40" height="40"/>
-  </a>
+<!-- Apache Kafka -->
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
+</a>
+
+<!-- Databricks -->
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/databricks/design-system/main/logo/databricks-logo.svg" alt="Databricks" width="40" height="40"/>
+</a>
+
+<!-- CI/CD -->
+<a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/mukuljoshi810/dev-assets/main/icons/ci-cd.png" alt="CI/CD" width="40" height="40"/>
+</a>
+
+<!-- System Design -->
+<a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/mukuljoshi810/dev-assets/main/icons/system-design.png" alt="System Design" width="40" height="40"/>
+</a>
 
   <!-- Apache Airflow -->
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="40" height="40"/>
-  </a>
-
-  <!-- System Design -->
-  <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-system-design-design-thinking-flat-flat-juicy-fish.png" alt="System Design" width="40" height="40"/>
   </a>
 
 </p>
