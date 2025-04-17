@@ -195,25 +195,23 @@
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
   </a>
 
-  <!-- Databricks -->
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Databricks_Logo.png" alt="Databricks" width="40" height="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Databricks_logo.svg" alt="Databricks" width="90" height="40"/>
+</a>
 
   <!-- Apache Kafka -->
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
   </a>
 
-  <!-- CI/CD -->
   <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mukuljoshi810/dev-assets/main/icons/ci-cd.png" alt="CI/CD" width="40" height="40"/>
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/2621/2621118.png" alt="CI/CD" width="40" height="40"/>
+</a>
 
   <!-- System Design -->
-  <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mukuljoshi810/dev-assets/main/icons/system-design.png" alt="System Design" width="40" height="40"/>
-  </a>
+ <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" alt="System Design" width="40" height="40"/>
+</a>
 
   <!-- Apache Airflow -->
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
